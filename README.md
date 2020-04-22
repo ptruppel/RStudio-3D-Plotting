@@ -2,6 +2,8 @@
 
 This is a simple 3D plotting exercise created as a teaching aid in the InVenTs Studio for teaching R using RStudio.
 
+![Orbital 4](https://github.com/ptruppel/RStudio-3D-Plotting/blob/master/dataset_example%20plot.JPG)
+
 ## Getting Started
 
 Open up RStudio and simply run the codes in order see the graph generation. Modify the code's inputs as needed.
